@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/bottom_home"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Home"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/bottom_history"
+        android:icon="@drawable/baseline_history_24"
+        android:title="History"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/placeholder"
+        android:title=""
+        android:enabled="false"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/bottom_task"
+        android:icon="@drawable/baseline_task_24"
+        android:title="Challenge"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/bottom_profile"
+        android:icon="@drawable/baseline_person_24"
+        android:title="Profile"
+        app:showAsAction="ifRoom"/>
+</menu>

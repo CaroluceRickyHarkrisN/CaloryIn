@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow3">#yellow</color>
+    <color name="yellow_disable"> #FFDC78 </color>
+    <color name="yellow">#F5BB18</color>
+    <color name="yellow2">#F5BB18</color>
+    <color name="purple_700">#F5BB18</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="background">#FFF5F5F5</color>
+    <color name="green">#FF7CFC00</color>
+    <color name="protein">#FFF0553F</color>
+    <color name="carbo">#FF01ACC0</color>
+    <color name="fat">#FF3EC37B</color>
+    <color name="fiber">#FFF5BB18</color>
+    <color name="energy">#FFC800FF</color>
+</resources>
