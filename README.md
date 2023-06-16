@@ -1,5 +1,6 @@
 
 # CaloryIn
+![Logo](https://firebasestorage.googleapis.com/v0/b/capstone-v1-1718b.appspot.com/o/Frame%2061.jpg?alt=media&token=ec83d143-c978-450c-8b28-1854440d40f7)
 
 Aplikasi rekomendasi makanan sehat dengan fitur tracking serta informasi kebutuhan nutrisi
 
@@ -37,3 +38,9 @@ Aplikasi rekomendasi makanan sehat dengan fitur tracking serta informasi kebutuh
 	+ https://drive.google.com/file/d/1ABF0squDMbMAZnod7iedTcD318E0eIi6/view?usp=sharing
 
     
+## Screenshots
+
+![App Screenshot](https://firebasestorage.googleapis.com/v0/b/capstone-v1-1718b.appspot.com/o/Screenshot%20from%202023-06-16%2016-13-39.png?alt=media&token=44aa12b6-95cd-45bf-aaec-4ec123cd6334)
+
+
+![App Screenshot](https://firebasestorage.googleapis.com/v0/b/capstone-v1-1718b.appspot.com/o/Screenshot%20from%202023-06-16%2016-18-20.png?alt=media&token=587a9fe7-1106-4308-8fa4-6965766e5939)
