@@ -14,10 +14,11 @@ POST localhost:3000/register
 GET localhost:3000/users/:uid
 PUT localhost:3000/update/:uid
 
-POST localhost:3000/records/:uid
-GET localhost:3000/records/:uid
-GET localhost:3000/records/:uid/:recordId
-GET localhost:3000/records/:uid/date/:date
+POST localhost:3000/foods/records/:uid
+GET localhost:3000/foods/records/:uid
+GET localhost:3000/foods/records/:uid/:recordId
+DELETE localhost:3000/foods/records/:uid/:recordId
+GET localhost:3000/foods/dashboard/:uid
 ```
 
 ## ID Token
